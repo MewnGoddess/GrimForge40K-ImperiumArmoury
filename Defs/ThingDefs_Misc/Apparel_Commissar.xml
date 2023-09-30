@@ -5,8 +5,8 @@
 		<!-- === Commissar Coat === -->
 	<ThingDef ParentName="GF40K_FlakJacketBase">
 		<defName>GF40K_Apparel_Commissar_Coat</defName> <!-- TODO: Edit Def -->
-		<label>commissar coat</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>commissar longcoat</label> <!-- TODO: Edit Name -->
+		<description>One of the most recognizeable pieces of attire found in the Imperium of Mankind, this signature, intricately decorated longcoat with golden trim is not just a piece of uniform, it's a sign of a status, meaining that the person wearing it was a successful Schola Progenium graduate, who then dedicated their life to lead Astra Militarum soldiers by an example.</description> <!-- TODO: Edit Desc -->
 		<techLevel>Industrial</techLevel>
 		<graphicData>
 			<texPath>Armor/commissar/_item</texPath> <!-- TODO: Edit Item Texture -->

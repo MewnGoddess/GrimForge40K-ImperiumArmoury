@@ -4,7 +4,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>GF40K_ImperiumArmoury_Cogitator</defName>
     <label>armoury cogitator node</label>
-    <description>...</description>
+    <description>Cogitator, or a Logic Engine is a sophisticated piece of technology, commonly used by the Adeptus Mechanicus for storing, processing and collecting large amounts of information. Cogitators vary from being purely mechanical in their design to using a combination of organic matter (i.e. - human brains) and liquids for processing power. Most of the cogitators use data-spools for interfacing, so their data processing capacity is rather limited. This particular device is equipped with a light-based neural pathway, which allows it to perform complex operations required to decrypt ancient STC fragments.</description>
     <graphicData>
       <texPath>Buildings/Cogitator</texPath>
 			<shaderType>CutoutComplex</shaderType>
