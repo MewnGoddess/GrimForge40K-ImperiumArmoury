@@ -6,7 +6,7 @@
 	<ThingDef ParentName="GF40K_ArmorReconBase">
 		<defName>GF40K_Apparel_Krieg_TrenchCoat</defName> <!-- TODO: Edit Def -->
 		<label>krieg trench coat</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<description>Krieg-pattern trenchcoat has a double purpose: both a military uniform and a fully sealed gear, designed to protect a guardsman against the radioactive soil and air of their homeworld, as well as mud, rain and other elements of any other battlefield where the Death Korps of Krieg set their feet upon.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/krieg/coat/_item</texPath> <!-- TODO: Edit Tex -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -26,8 +26,8 @@
 		<!-- === Krieg Flak Armor === -->
 	<ThingDef ParentName="GF40K_ArmorReconBase">
 		<defName>GF40K_Apparel_Krieg_FlakArmor</defName> <!-- TODO: Edit Def -->
-		<label>krieg flak armor</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>Krieg-pattern flak vest</label> <!-- TODO: Edit Name -->
+		<description>A standard-issue flak-vest, designed on Krieg, the homeworld of Death Korps of Krieg. A flak vest is a relatively cheap and easy in production for an average Imperial world type of armour. Usually a flak vest consists of a skeleton, composed of flexible, lightweight metals. The skeleton is wrapped in several layers of ablative, shock-resistant materials and ballistic textiles. After multiple layers of fabric are affixed to the skeleton, the vest is given its toughened outer shell. This combination of materials provides a decent degree of protection against most stub-weaponry and energy weapons comparable to a lasgun.\n\nThis particular type of flak vest was designed and adopted by Death Korps of Krieg Astra Militarum Regiments, as the result of their more than millenia experience in siege warfare.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/krieg/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -50,8 +50,8 @@
 		<!-- === Krieg Flak Armor (Middle) === -->
 	<ThingDef ParentName="GF40K_ArmorReconBase">
 		<defName>GF40K_Apparel_Krieg_FlakArmorMiddle</defName> <!-- TODO: Edit Def -->
-		<label>krieg flak armor (middle)</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>Krieg-pattern flak vest (middle)</label> <!-- TODO: Edit Name -->
+		<description>A standard-issue flak-vest, designed on Krieg, the homeworld of Death Korps of Krieg. A flak vest is a relatively cheap and easy in production for an average Imperial world type of armour. Usually a flak vest consists of a skeleton, composed of flexible, lightweight metals. The skeleton is wrapped in several layers of ablative, shock-resistant materials and ballistic textiles. After multiple layers of fabric are affixed to the skeleton, the vest is given its toughened outer shell. This combination of materials provides a decent degree of protection against most stub-weaponry and energy weapons comparable to a lasgun.\n\nThis particular type of flak vest was designed and adopted by Death Korps of Krieg Astra Militarum Regiments, as the result of their more than millenia experience in siege warfare. This particular vest lacks shoulder protection.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/krieg/body/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -76,8 +76,8 @@
 		<!-- === Krieg Flak Helmet === -->
 	<ThingDef ParentName="GF40K_ArmorHelmetReconBase">
 		<defName>GF40K_Apparel_Krieg_FlakHelmet</defName> <!-- TODO: Edit Def -->
-		<label>krieg flak helmet</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>Krieg-pattern flak helmet</label> <!-- TODO: Edit Name -->
+		<description>A standard-issue helmet, used by Death Korps of Krieg regiments of Astra Militarum. Despite it's design closely resembling the ones from the ancient days of Terra, dating back to M2, it's rather archaic appearence shouldn't deceive you. Such helmets are more than capable of providing a decent degree of protection against most stub-weaponry and energy weapons comparable to a lasgun.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/krieg/helmet/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -98,7 +98,7 @@
 	<ThingDef ParentName="GF40K_GasMaskBase">       
 		<defName>GF40K_Apparel_Krieg_HelmetGasMask</defName> <!-- TODO: Edit Def -->
 		<label>krieg gas mask</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<description>Standard-issue gasmask is a necessary part of uniform for each and every Death Korps of Krieg guardsman. The main reason for that is the fact that Krieg is essentially a deathworld, that has survived a 500 years-long civil war that has been waged using nuclear weapons. Hundreds of years of nuclear winter have destroyed all the chances of Krieg's surface being able to sustain life, so a gasmask is a necessity both on it's bleak landscape and at any other battlefield that Death Korps of Krieg are fighting for their retribution in the eyes of The Emperor of Mankind.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/krieg/helmet/gasmask/_item</texPath> <!-- TODO: Edit Tex -->
 			<graphicClass>Graphic_Single</graphicClass>
