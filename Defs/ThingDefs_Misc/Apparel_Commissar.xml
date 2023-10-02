@@ -43,8 +43,8 @@
 		<!-- === Commissar Hat === -->     <!-- basically a copy-pasted authority cap from ideology, for now -->
 	<ThingDef ParentName="HatMakeableBase">
 		<defName>GF40K_Apparel_Commissar_Hat</defName> <!-- TODO: Edit Def -->
-		<label>commissar hat</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>commissar peaked cap</label> <!-- TODO: Edit Name -->
+		<description>Signature headwear of morale officers of the Imperium of Mankind, the commissar's peaked cap is meant to be recognized by any citizen of the Imperium, as it is depicted on hundreds of motivation posters. It is supposed to inspire and instil fear into men, making them fear the commissar much more, than they would fear the enemy.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/commissar/helmet/_item</texPath> <!-- TODO: Edit Tex -->
 			<graphicClass>Graphic_Single</graphicClass>
