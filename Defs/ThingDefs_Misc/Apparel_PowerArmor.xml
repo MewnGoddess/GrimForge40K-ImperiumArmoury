@@ -5,8 +5,8 @@
 		<!-- === Sororitas Light Power Armor === -->
 	<ThingDef ParentName="GF40K_ArmorCataphractBase">
 		<defName>GF40K_Apparel_Soro_LPowerArmor</defName> <!-- TODO: Edit Def -->
-		<label>sororitas light power armor</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>sororitas power armor</label> <!-- TODO: Edit Name -->
+		<description>Power Armour is a completely enclosed suit of armour, composed of thick ceramite plates and equpped with plug ports that link directly to the user's muscular system. It's weight is mostly compensated by the fibre bundle network within the armour itself, thus making it significantly less restraining than the carapace armour.n\n\Suits of power armour commonly used by the Adepta Sororitas are the only thing that reminds about the Age of Apostasy. While this kind of power armour does not require the enchancements of an Astartes Space Marine, such suits still utilize a similar principle and will offer a remarkable degree of protection, as long as the armour itself is properly maintained.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/powerarmor/sororitas/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -31,7 +31,7 @@
 	<ThingDef ParentName="GF40K_ArmorHelmetCataphractBase">
 		<defName>GF40K_Apparel_Soro_LPowerHelmet</defName> <!-- TODO: Edit Def -->
 		<label>sororitas light power helmet</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<description>The 'Sabbat' Pattern Sororitas Helm is equpped with a communication device and a rebreather unit, making it suitable for operation in hazardous enviroments as well as enviroments with little to no oxygen avalible. It is also capable of shielding user's sensory organs from hazardous psycho-visual and auditory influence that is commonly associated with chaos taint.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/powerarmor/sororitas/helmet/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
