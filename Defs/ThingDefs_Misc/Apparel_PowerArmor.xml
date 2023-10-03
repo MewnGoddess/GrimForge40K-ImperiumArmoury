@@ -54,7 +54,7 @@
 	<ThingDef ParentName="GF40K_ArmorCataphractBase">
 		<defName>GF40K_Apparel_LPowerArmor</defName> <!-- TODO: Edit Def -->
 		<label>light power armor</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<description>Power Armour is a completely enclosed suit of armour, composed of thick ceramite plates and equpped with plug ports that link directly to the user's muscular system. It's weight is mostly compensated by the fibre bundle network within the armour itself, thus making it significantly less restraining than the carapace armour.n\n\Such suits are commonly used by the Inquisition, planetary governors and other members of imperial elite, as well as Rouge Traders and their retinue.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/powerarmor/lightpowerarmor/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -79,7 +79,7 @@
 	<ThingDef ParentName="GF40K_ArmorHelmetCataphractBase">
 		<defName>GF40K_Apparel_LPowerHelmet</defName> <!-- TODO: Edit Def -->
 		<label>light power helmet</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<description>Light power armour helmet is designed to be used with a suit of power armour to ensure the closed air circulation, which should provide enough safety in hazardous enviroments, as well areas with little to no breathable air. Power armour helmets are outfitted with photolenses, communication equipment, rebreather and low-light vision devices, on top of providing a substantial degree of protection against most kinds of damage. </description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/powerarmor/lightpowerarmor/helmet/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -98,8 +98,8 @@
 		<!-- === Light Power Helmet Half-Mask === -->
 	<ThingDef ParentName="GF40K_ArmorHelmetCataphractBase">
 		<defName>GF40K_Apparel_LPowerHalfMask</defName> <!-- TODO: Edit Def -->
-		<label>light power half-mask</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>rebreather mask</label> <!-- TODO: Edit Name -->
+		<description>Rebreather device, commonly used in power armour helmets. Can be used in situations that require a sealed air circulation, but also require the user to rely on natural perception.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/powerarmor/mask/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
