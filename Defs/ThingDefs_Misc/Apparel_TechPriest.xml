@@ -6,7 +6,7 @@
 	<ThingDef ParentName="GF40K_ArmorReconBase">
 		<defName>GF40K_Apparel_TP_Robe</defName> <!-- TODO: Edit Def -->
 		<label>tech priest robe</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<description>A sturdy long robe, usually worn by the priesthood of Adeptus Mechanicus. The individual design may vary, depending on the forge world and the position of the priest in Mechanicus hierarchy, as well as their body structure. Those robes are adorned with Mechanicus iconography and gear-like ornaments signifying the wearer's position in Mechanicus hierarchy.n\n\ Such robes became a traditon since the earliest days of the Age of Strife, when Mars was isolated from Terra and Mars' atmospheric shields gave away, leaving the planet exposed to deadly radiation, so such hoods and thick sturdy robes became a necessity.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/skitarii/priest/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -47,7 +47,7 @@
 	<ThingDef ParentName="GF40K_ArmorHelmetReconBase">
 		<defName>GF40K_Apparel_TP_Hood</defName> <!-- TODO: Edit Def -->
 		<label>tech priest hood</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<description>The most common kind of headwear for a member of the Adeptus Mechanicus - a hood made out of sturdy material. Usually it has the same colour and ornament as the robe, however it's not necessary. Such hoods became a traditon since the earliest days of the Age of Strife, when Mars was isolated from Terra and Mars' atmospheric shields gave away, leaving the planet exposed to deadly radiation, so such hoods and thick sturdy robes became a necessity.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/skitarii/priest/helmet/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -83,8 +83,8 @@
 		<!-- === Skitarii Ranger Armor === -->
 	<ThingDef ParentName="GF40K_ArmorMarineBase">
 		<defName>GF40K_Apparel_Ski_RangerArmor</defName> <!-- TODO: Edit Def -->
-		<label>skitarii ranger armor</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>skitarii ranger war plate</label> <!-- TODO: Edit Name -->
+		<description>Skitarii are also known as Tech-Guard (or Tech Guard) to outsiders. Their wargear is somewhat unique, compared to other servants of the Imperium of Mankind, as the innermost layer of their defence is coated in coated in recombinant cells, that collect the moisture from the wearer's skin and form an extra layer of defence consisting of thick gelatinous material, that both protects the user's body form the abrasion caused by ceramite plates of armour and shields the wearer from the radiation emmited by the more dangerous weaponry.n\n\Skitarii rangers in particular are most notable for their hunter-killer role, due to their legendary stamina, they are capable of tracking and hunting their foe for weeks with no rest or interruption.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/skitarii/scout/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -119,8 +119,8 @@
 		<!-- === Skitarii Vanguard Armor === -->
 	<ThingDef ParentName="GF40K_ArmorMarineBase">
 		<defName>GF40K_Apparel_Ski_VanguardArmor</defName> <!-- TODO: Edit Def -->
-		<label>skitarii vanguard armor</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>skitarii vanguard war plate</label> <!-- TODO: Edit Name -->
+		<description>Skitarii are also known as Tech-Guard (or Tech Guard) to outsiders. Their wargear is somewhat unique, compared to other servants of the Imperium of Mankind, as the innermost layer of their defence is coated in coated in recombinant cells, that collect the moisture from the wearer's skin and form an extra layer of defence consisting of thick gelatinous material, that both protects the user's body form the abrasion caused by ceramite plates of armour and shields the wearer from the radiation emmited by the more dangerous weaponry.n\n\Skitarii Vanguard are most noteworthy for being constantly exposed to deadly amounts of radiation and utilizing it to destroy their foes. Simply approaching them is akin to inviting a death from radiation poisoning. This, however is not exception for Skitarii Vanguard themselves, as they comparably quickly become martyrs to their own extremely deadly weapons.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/skitarii/soldier/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -156,7 +156,7 @@
 	<ThingDef ParentName="GF40K_ArmorHelmetMarineBase">
 		<defName>GF40K_Apparel_Ski_RangerHelmet</defName> <!-- TODO: Edit Def -->
 		<label>skitarii ranger helmet</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<description>Skitarii ranger helmet consists of two parts: a helmet itself and a hood of the ranger's robe. The faceplate of the helmet serves a double purpose. Apart from protecting the wearer's vital organs, it also serves as a transmitting device for all the sensory information that a skitarii ranger receives on their mission. Ranger's eyes are constantly open, as their eyelids are surgically removed, so that the magos in control would not miss a single detail. Skitarii helmet also has a built-in rebreather, a necessity in toxic atmosphere of Mars, as well as many battlefields across the Galaxy.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/skitarii/scout/helmet/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -197,7 +197,7 @@
 	<ThingDef ParentName="GF40K_ArmorHelmetMarineBase">
 		<defName>GF40K_Apparel_Ski_VanguardHelmet</defName> <!-- TODO: Edit Def -->
 		<label>skitarii vanguard helmet</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<description>Skitarii vanguard helmets are designed to provide a substantial degree of defence against most of kinds of damage, as well as shield it's user against the deadly radiation coming from weapons most commonly used by the Skitarii vanguard. However, with the prolonged exposure to extreme levels of radiation even this kind of protection does not suffice. And on the rare occasions these warriors unscrew their helmets, the sight of their missing teeth and hairless, sore-pocked skin tells the awful truth. It is a price they willingly pay, for their devotion to the Machine God is absolute.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/skitarii/soldier/helmet/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
@@ -235,8 +235,8 @@
 		<!-- === Skitarii Vanguard Lieutenant Helmet === -->
 	<ThingDef ParentName="GF40K_ArmorHelmetMarineBase">
 		<defName>GF40K_Apparel_Ski_VanguardLtnHelmet</defName> <!-- TODO: Edit Def -->
-		<label>skitarii vanguard lieutenant helmet</label> <!-- TODO: Edit Name -->
-		<description>...</description> <!-- TODO: Edit Desc -->
+		<label>skitarii vanguard alpha helmet</label> <!-- TODO: Edit Name -->
+		<description>Skitarii vanguard helmets are designed to provide a substantial degree of defence against most of kinds of damage, as well as shield it's user against the deadly radiation coming from weapons most commonly used by the Skitarii vanguard. However, with the prolonged exposure to extreme levels of radiation even this kind of protection does not suffice. And on the rare occasions these warriors unscrew their helmets, the sight of their missing teeth and hairless, sore-pocked skin tells the awful truth. It is a price they willingly pay, for their devotion to the Machine God is absolute.n\n\This particular helmet has an outstanding feature - a golden crest adorning it's top, signifying it's wearer's status as "Alpha" or a Skitarii Vanguard Overseer, i.e. a cyborg, who turned out to be worthy of a degree of independence and autonomy on the battlefield, filling the role of an officer.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/skitarii/soldier/helmetLtn/_item</texPath> <!-- TODO: Edit Item Texture -->                   <!-- NO TEXTURE -->
 			<graphicClass>Graphic_Single</graphicClass>
