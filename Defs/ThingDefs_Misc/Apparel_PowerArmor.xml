@@ -30,7 +30,7 @@
 		<!-- === Sororitas Light Power Helmet === -->
 	<ThingDef ParentName="GF40K_ArmorHelmetCataphractBase">
 		<defName>GF40K_Apparel_Soro_LPowerHelmet</defName> <!-- TODO: Edit Def -->
-		<label>sororitas light power helmet</label> <!-- TODO: Edit Name -->
+		<label>sororitas power helmet</label> <!-- TODO: Edit Name -->
 		<description>The 'Sabbat' Pattern Sororitas Helm is equpped with a communication device and a rebreather unit, making it suitable for operation in hazardous enviroments as well as enviroments with little to no oxygen avalible. It is also capable of shielding user's sensory organs from hazardous psycho-visual and auditory influence that is commonly associated with chaos taint.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/powerarmor/sororitas/helmet/_item</texPath> <!-- TODO: Edit Item Texture -->
