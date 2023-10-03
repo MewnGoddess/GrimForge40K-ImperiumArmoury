@@ -44,8 +44,8 @@
 		<!-- === Flak Armor (Middle) === -->
 	<ThingDef ParentName="GF40K_ArmorReconBase">
 		<defName>GF40K_Apparel_Guard_FlakArmorMiddle</defName> <!-- TODO: Edit Def -->
-		<label>guard flak armor (middle)</label> <!-- TODO: Edit Name -->
-		<description>A flak vest is a relatively cheap and easy in production for an average Imperial world type of armour. Usually a flak vest consists of a skeleton, composed of flexible, lightweight metals. The skeleton is wrapped in several layers of ablative, shock-resistant materials and ballistic textiles. After multiple layers of fabric are affixed to the skeleton, the vest is given its toughened outer shell. This combination of materials provides a decent degree of protection against most stub-weaponry and energy weapons comparable to a lasgun.</description> <!-- TODO: Edit Desc -->
+		<label>guard flak armor vest</label> <!-- TODO: Edit Name -->
+		<description>A flak vest is a relatively cheap and easy in production for an average Imperial world type of armour. Usually a flak vest consists of a skeleton, composed of flexible, lightweight metals. The skeleton is wrapped in several layers of ablative, shock-resistant materials and ballistic textiles. After multiple layers of fabric are affixed to the skeleton, the vest is given its toughened outer shell. This combination of materials provides a decent degree of protection against most stub-weaponry and energy weapons comparable to a lasgun.n\n\This set of armour does not protect wearer's shoulders, but it can be worn under a longcoat or a duster.</description> <!-- TODO: Edit Desc -->
 		<techLevel>Industrial</techLevel>
 		<graphicData>
 			<texPath>Armor/guard/light/body/_item</texPath> <!-- TODO: Edit Item Texture -->
