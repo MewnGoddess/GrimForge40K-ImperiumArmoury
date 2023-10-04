@@ -26,7 +26,7 @@
 		<!-- === Krieg Flak Armor === -->
 	<ThingDef ParentName="GF40K_ArmorReconBase">
 		<defName>GF40K_Apparel_Krieg_FlakArmor</defName> <!-- TODO: Edit Def -->
-		<label>Krieg-pattern flak vest</label> <!-- TODO: Edit Name -->
+		<label>Krieg-pattern flak armour</label> <!-- TODO: Edit Name -->
 		<description>A standard-issue flak-vest, designed on Krieg, the homeworld of Death Korps of Krieg. A flak vest is a relatively cheap and easy in production for an average Imperial world type of armour. Usually a flak vest consists of a skeleton, composed of flexible, lightweight metals. The skeleton is wrapped in several layers of ablative, shock-resistant materials and ballistic textiles. After multiple layers of fabric are affixed to the skeleton, the vest is given its toughened outer shell. This combination of materials provides a decent degree of protection against most stub-weaponry and energy weapons comparable to a lasgun.\n\nThis particular type of flak vest was designed and adopted by Death Korps of Krieg Astra Militarum Regiments, as the result of their more than millenia experience in siege warfare.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/krieg/_item</texPath> <!-- TODO: Edit Item Texture -->
@@ -50,8 +50,8 @@
 		<!-- === Krieg Flak Armor (Middle) === -->
 	<ThingDef ParentName="GF40K_ArmorReconBase">
 		<defName>GF40K_Apparel_Krieg_FlakArmorMiddle</defName> <!-- TODO: Edit Def -->
-		<label>Krieg-pattern flak vest (middle)</label> <!-- TODO: Edit Name -->
-		<description>A standard-issue flak-vest, designed on Krieg, the homeworld of Death Korps of Krieg. A flak vest is a relatively cheap and easy in production for an average Imperial world type of armour. Usually a flak vest consists of a skeleton, composed of flexible, lightweight metals. The skeleton is wrapped in several layers of ablative, shock-resistant materials and ballistic textiles. After multiple layers of fabric are affixed to the skeleton, the vest is given its toughened outer shell. This combination of materials provides a decent degree of protection against most stub-weaponry and energy weapons comparable to a lasgun.\n\nThis particular type of flak vest was designed and adopted by Death Korps of Krieg Astra Militarum Regiments, as the result of their more than millenia experience in siege warfare. This particular vest lacks shoulder protection.</description> <!-- TODO: Edit Desc -->
+		<label>Krieg-pattern flak vest</label> <!-- TODO: Edit Name -->
+		<description>A standard-issue flak-vest, designed on Krieg, the homeworld of Death Korps of Krieg. A flak vest is a relatively cheap and easy in production for an average Imperial world type of armour. Usually a flak vest consists of a skeleton, composed of flexible, lightweight metals. The skeleton is wrapped in several layers of ablative, shock-resistant materials and ballistic textiles. After multiple layers of fabric are affixed to the skeleton, the vest is given its toughened outer shell. This combination of materials provides a decent degree of protection against most stub-weaponry and energy weapons comparable to a lasgun.\n\nThis particular type of flak vest was designed and adopted by Death Korps of Krieg Astra Militarum Regiments, as the result of their more than millenia experience in siege warfare. This particular vest lacks shoulder protection, so it can be worn under a long coat, or a duster.</description> <!-- TODO: Edit Desc -->
 		<graphicData>
 			<texPath>Armor/krieg/body/_item</texPath> <!-- TODO: Edit Item Texture -->
 			<graphicClass>Graphic_Single</graphicClass>
